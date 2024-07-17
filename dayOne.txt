@@ -1,0 +1,7 @@
+Day One learnings : - 
+thread librarys is used for thread execution 
+creating a thread in cpp thread name(function , parameters)
+sleep_for is used to stop a threads execution for some time 
+join() is used to block the main thread continue with that specific thread only 
+thread functions cant return any value so its better pass values by ref 
+for passing global vars use ref()
